@@ -1,7 +1,7 @@
 
 # Sort IT 
 
-Responsive visual representation of various sorting algorithms like Bubble, Selection, Merge, Comb, Counting sort etc. Built mainly using BootStrap, jQuery, JavaScript, HTML and CSS.
+Responsive visual representation of various sorting algorithms like Bubble, Selection, Merge, Comb, Counting sort, etc. Built mainly using Bootstrap, jQuery, JavaScript, HTML and CSS.
 
 ## Demo
 
@@ -22,7 +22,7 @@ Responsive visual representation of various sorting algorithms like Bubble, Sele
 
 ## Tech Stack
 
-**FrontEnd:** BootStrap, HTML and CSS    
+**FrontEnd:** Bootstrap, HTML and CSS    
 **Logic & Animation:** JavaScript and jQuery
 
 
