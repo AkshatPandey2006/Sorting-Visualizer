@@ -7,6 +7,8 @@ Responsive visual representation of various sorting algorithms like Bubble, Sele
 
 **Hosted Link:** https://all-sort-vis.netlify.app/  
 
+https://github.com/user-attachments/assets/12c528b6-947c-43a3-8094-0566216955a7
+
 
 ## Features
 
