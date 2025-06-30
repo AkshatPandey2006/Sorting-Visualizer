@@ -1,5 +1,5 @@
 
-# Sort IT 
+# Sort Vis
 
 Responsive visual representation of various sorting algorithms like Bubble, Selection, Merge, Comb, Counting sort, etc. Built mainly using Bootstrap, jQuery, JavaScript, HTML and CSS.
 
