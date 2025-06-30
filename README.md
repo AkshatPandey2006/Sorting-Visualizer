@@ -31,7 +31,7 @@ Responsive visual representation of various sorting algorithms like Bubble, Sele
 Clone the project
 
 ```bash
-  git clone https://github.com/AkshatPandey2006/Sorting_Visualiser
+  git clone https://github.com/AkshatPandey2006/Sorting_Vis
 ```
 
 Open "home.html"
