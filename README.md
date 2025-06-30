@@ -1,10 +1,11 @@
 
-# Sort IT
+# Sort IT 
 
 Responsive visual representation of various sorting algorithms like Bubble, Selection, Merge, Comb, Counting sort etc. Built mainly using BootStrap, jQuery, JavaScript, HTML and CSS.
 
+## Demo
 
-
+**Hosted Link:** https://all-sort-vis.netlify.app/  
 
 
 ## Features
@@ -25,10 +26,6 @@ Responsive visual representation of various sorting algorithms like Bubble, Sele
 **Logic & Animation:** JavaScript and jQuery
 
 
-
-## Demo
-
-**Hosted Link:** https://all-sort-vis.netlify.app/  
 ## Run Locally
 
 Clone the project
