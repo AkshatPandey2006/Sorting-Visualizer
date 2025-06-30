@@ -28,7 +28,7 @@ Responsive visual representation of various sorting algorithms like Bubble, Sele
 
 ## Run Locally
 
-Clone the project
+Clone the Project
 
 ```bash
   git clone https://github.com/AkshatPandey2006/Sorting_Vis
